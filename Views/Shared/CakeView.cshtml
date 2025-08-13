@@ -1,0 +1,22 @@
+﻿@model Cake
+
+<div class="col-lg-4 col-md-6 col-sm-6">
+    <div class="card" style="" onclick="javascript:window.location.href='/cakes/details/@Model.Id'">
+        <img class="card-img-top" src="@Model.ImageUrl" alt="@Model.Name">
+        <div class="card-body">
+            <h5 class="card-title d-inline float-left">
+                @Model.Name
+            </h5>
+            <p class="card-text d-inline float-right">@Model.Price.ToString("c")</p>
+            <p class="card-text card-short-description"><i>@Model.ShortDescription</i></p>
+            <form asp-action="AddToShoppingCart"
+                  asp-controller="ShoppingCart"
+                  asp-route-cakeId="@Model.Id"
+                  method="post">
+
+                <button class="btn btn-primary buy-now-btn float-right">Buy Now</button>
+            </form>
+
+        </div>
+    </div>
+</div>

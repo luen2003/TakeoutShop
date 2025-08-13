@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\package-lock.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\package.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.deps.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.runtimeconfig.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.dll
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\bin\Debug\netcoreapp2.0\CakeShop.pdb
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.sourcelink.json
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.dll
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.pdb
+C:\Users\DELL\Downloads\Cake-Shop\CakeShop\obj\Debug\netcoreapp2.0\CakeShop.genruntimeconfig.cache
