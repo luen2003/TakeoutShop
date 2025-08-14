@@ -24,7 +24,7 @@ namespace CakeShop.Controllers
             var cakesListViewModel = new CakesListViewModel
             {
                 Cakes = await _cakeRepository.GetCakes(selectedCategory),
-                CurrentCategory = selectedCategory ?? "All Cakes"
+                CurrentCategory = selectedCategory ?? "All Fast Food"
             };
             return View(cakesListViewModel);
         }
